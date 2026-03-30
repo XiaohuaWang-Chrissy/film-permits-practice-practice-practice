@@ -1,0 +1,702 @@
+[
+  {
+    "incident_id": "228668",
+    "reported_dt": "2026-02-27T13:44:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "228662",
+    "reported_dt": "2026-02-27T13:04:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "228646",
+    "reported_dt": "2026-02-27T08:08:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RESH"
+  },
+  {
+    "incident_id": "228634",
+    "reported_dt": "2026-02-26T23:08:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "BHPW"
+  },
+  {
+    "incident_id": "228596",
+    "reported_dt": "2026-02-26T11:53:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "228525",
+    "reported_dt": "2026-02-25T00:38:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "228512",
+    "reported_dt": "2026-02-24T18:45:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "EMTC"
+  },
+  {
+    "incident_id": "228499",
+    "reported_dt": "2026-02-24T12:50:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "228494",
+    "reported_dt": "2026-02-24T11:20:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "EMTC"
+  },
+  {
+    "incident_id": "228481",
+    "reported_dt": "2026-02-23T20:12:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "228469",
+    "reported_dt": "2026-02-23T09:05:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "228438",
+    "reported_dt": "2026-02-21T23:48:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "WF"
+  },
+  {
+    "incident_id": "228426",
+    "reported_dt": "2026-02-21T17:31:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "228424",
+    "reported_dt": "2026-02-21T16:44:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "WF"
+  },
+  {
+    "incident_id": "228421",
+    "reported_dt": "2026-02-21T13:50:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "228384",
+    "reported_dt": "2026-02-20T11:34:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "228276",
+    "reported_dt": "2026-02-17T21:42:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "228268",
+    "reported_dt": "2026-02-17T19:03:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "TD"
+  },
+  {
+    "incident_id": "228261",
+    "reported_dt": "2026-02-17T15:00:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "228253",
+    "reported_dt": "2026-02-17T13:08:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "228251",
+    "reported_dt": "2026-02-17T12:55:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "228218",
+    "reported_dt": "2026-02-16T16:50:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "228209",
+    "reported_dt": "2026-02-16T12:35:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "EMTC"
+  },
+  {
+    "incident_id": "228202",
+    "reported_dt": "2026-02-16T01:55:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "EMTC"
+  },
+  {
+    "incident_id": "228197",
+    "reported_dt": "2026-02-15T20:17:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "228165",
+    "reported_dt": "2026-02-14T19:57:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "228148",
+    "reported_dt": "2026-02-14T10:58:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "228142",
+    "reported_dt": "2026-02-14T03:32:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "228130",
+    "reported_dt": "2026-02-13T18:35:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "228126",
+    "reported_dt": "2026-02-13T16:31:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "228111",
+    "reported_dt": "2026-02-13T13:52:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "228090",
+    "reported_dt": "2026-02-12T19:42:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "228047",
+    "reported_dt": "2026-02-11T20:08:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "EMTC"
+  },
+  {
+    "incident_id": "228022",
+    "reported_dt": "2026-02-11T10:11:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "EMTC"
+  },
+  {
+    "incident_id": "227997",
+    "reported_dt": "2026-02-10T14:21:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "227985",
+    "reported_dt": "2026-02-10T13:40:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "BXCT"
+  },
+  {
+    "incident_id": "227960",
+    "reported_dt": "2026-02-10T00:01:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "227930",
+    "reported_dt": "2026-02-09T15:47:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "227933",
+    "reported_dt": "2026-02-09T12:20:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "227922",
+    "reported_dt": "2026-02-09T11:10:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "MNCT"
+  },
+  {
+    "incident_id": "227923",
+    "reported_dt": "2026-02-09T11:07:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "227897",
+    "reported_dt": "2026-02-08T20:15:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "227878",
+    "reported_dt": "2026-02-08T08:40:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227862",
+    "reported_dt": "2026-02-07T13:05:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "227848",
+    "reported_dt": "2026-02-06T21:08:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227829",
+    "reported_dt": "2026-02-06T16:31:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "227822",
+    "reported_dt": "2026-02-06T13:49:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227801",
+    "reported_dt": "2026-02-06T06:15:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "EMTC"
+  },
+  {
+    "incident_id": "227790",
+    "reported_dt": "2026-02-05T20:23:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "227785",
+    "reported_dt": "2026-02-05T19:57:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RESH"
+  },
+  {
+    "incident_id": "227777",
+    "reported_dt": "2026-02-05T18:12:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "227753",
+    "reported_dt": "2026-02-05T01:34:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227750",
+    "reported_dt": "2026-02-05T00:52:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "EMTC"
+  },
+  {
+    "incident_id": "227744",
+    "reported_dt": "2026-02-04T21:50:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "227730",
+    "reported_dt": "2026-02-04T17:18:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "227728",
+    "reported_dt": "2026-02-04T15:21:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "BXCT"
+  },
+  {
+    "incident_id": "227714",
+    "reported_dt": "2026-02-04T12:10:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RESH"
+  },
+  {
+    "incident_id": "227703",
+    "reported_dt": "2026-02-04T00:58:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "227702",
+    "reported_dt": "2026-02-03T23:44:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "227683",
+    "reported_dt": "2026-02-03T18:31:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227678",
+    "reported_dt": "2026-02-03T16:17:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "EMTC"
+  },
+  {
+    "incident_id": "227666",
+    "reported_dt": "2026-02-03T10:41:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "227665",
+    "reported_dt": "2026-02-03T10:05:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227657",
+    "reported_dt": "2026-02-03T01:14:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "BHPW"
+  },
+  {
+    "incident_id": "227654",
+    "reported_dt": "2026-02-03T00:22:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227627",
+    "reported_dt": "2026-02-02T09:40:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "EMTC"
+  },
+  {
+    "incident_id": "227622",
+    "reported_dt": "2026-02-02T06:48:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "227594",
+    "reported_dt": "2026-02-01T05:58:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227556",
+    "reported_dt": "2026-01-31T03:31:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227548",
+    "reported_dt": "2026-01-30T23:16:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "EMTC"
+  },
+  {
+    "incident_id": "227517",
+    "reported_dt": "2026-01-30T13:45:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "NIC"
+  },
+  {
+    "incident_id": "227514",
+    "reported_dt": "2026-01-30T11:17:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227473",
+    "reported_dt": "2026-01-29T16:50:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "227457",
+    "reported_dt": "2026-01-29T10:17:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "EMTC"
+  },
+  {
+    "incident_id": "227385",
+    "reported_dt": "2026-01-27T20:25:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227354",
+    "reported_dt": "2026-01-27T10:32:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "227335",
+    "reported_dt": "2026-01-26T23:48:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "WF"
+  },
+  {
+    "incident_id": "227275",
+    "reported_dt": "2026-01-25T03:43:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "227256",
+    "reported_dt": "2026-01-24T20:38:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "227246",
+    "reported_dt": "2026-01-24T16:08:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227244",
+    "reported_dt": "2026-01-24T14:31:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "227230",
+    "reported_dt": "2026-01-24T09:30:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227221",
+    "reported_dt": "2026-01-23T22:44:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "227217",
+    "reported_dt": "2026-01-23T20:56:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "227212",
+    "reported_dt": "2026-01-23T15:58:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "MNCT"
+  },
+  {
+    "incident_id": "227185",
+    "reported_dt": "2026-01-22T23:17:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "227180",
+    "reported_dt": "2026-01-22T20:53:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227125",
+    "reported_dt": "2026-01-21T22:20:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "227122",
+    "reported_dt": "2026-01-21T20:54:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "TD"
+  },
+  {
+    "incident_id": "227124",
+    "reported_dt": "2026-01-21T20:23:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227123",
+    "reported_dt": "2026-01-21T19:51:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227109",
+    "reported_dt": "2026-01-21T13:40:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "GRVC"
+  },
+  {
+    "incident_id": "227085",
+    "reported_dt": "2026-01-21T09:59:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "227078",
+    "reported_dt": "2026-01-21T00:15:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "227037",
+    "reported_dt": "2026-01-20T14:00:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "EMTC"
+  },
+  {
+    "incident_id": "227027",
+    "reported_dt": "2026-01-20T09:57:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "227011",
+    "reported_dt": "2026-01-19T21:54:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RMSC"
+  },
+  {
+    "incident_id": "227002",
+    "reported_dt": "2026-01-19T19:53:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "OBCC"
+  },
+  {
+    "incident_id": "226977",
+    "reported_dt": "2026-01-19T11:05:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "RNDC"
+  },
+  {
+    "incident_id": "226948",
+    "reported_dt": "2026-01-18T15:23:00.000",
+    "incident_type": "Use of Force",
+    "reason": "Assault on Staff",
+    "facility": "NIC"
+  }
+]

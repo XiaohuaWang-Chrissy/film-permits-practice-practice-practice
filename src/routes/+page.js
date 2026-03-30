@@ -1,3 +1,4 @@
+import toilets from '$lib/data/toilets.json';
 // Page settings
 // These values are passed to the layout to control what appears on the page.
 export function load() {
@@ -6,5 +7,6 @@ export function load() {
     showHeader: true,
     // Set to false to hide the site footer
     showFooter: true,
+    toilets,
   };
 }
